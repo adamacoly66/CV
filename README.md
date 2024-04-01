@@ -46,9 +46,9 @@ Project:
 	- Issued Nov 2022
 
 - Certificate of Completion - IPv6 Foundations
-	- AFRINIC-The Regional Internet Registry for Africa
-	- Issued May 2022
-	- Credential ID qerl2nx0se
+ - AFRINIC-The Regional Internet Registry for Africa
+ - Issued May 2022
+ - Credential ID qerl2nx0se
 
 - Training Certificate Smart Senegal Network Interconnection Project Cloud TTT Training
 	- Huawei
