@@ -4,7 +4,7 @@
 
 ## 💼 Work Experience
 
-**System Engineer** @ [IPCOM-TECHNOLOGY](https://www.linkedin.com/company/ipcom-technology/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BlxylJ66cTjSyKulR8vMROA%3D%3D) 🇸🇳 _(September 2016 - August 2016)_ (<u>apprenticeship</u>)
+**System Engineer** @ [IPCOM-TECHNOLOGY](https://www.linkedin.com/company/ipcom-technology/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BlxylJ66cTjSyKulR8vMROA%3D%3D) 🇸🇳 _(September 2016 - August 2016)_ (<u>apprenticeship</u>)<br/>
 Project: 
 **GIS in Senegalese agriculture**
 - Using Quantum GIS to map an arable are
