@@ -10,8 +10,9 @@
 - Maintenance of services implemented in the infrastructure
 - Setting up a DNS server with DNSSEC
 - Responsible for server network security
-- Implementation of electronic certificates on production servers <br/>
-Project: 
+- Implementation of electronic certificates on production servers 
+<br/>
+Project: <br/>
 **Smart Edu Project Manager (Huawei/ADIE)**
 - Redesign of the Addressing Plan
 - Resumption of the general architecture of the site
