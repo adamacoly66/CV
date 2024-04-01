@@ -45,7 +45,7 @@ Project:
 🇫🇷 **French**: fluent<br/>
 🇬🇧 **English**: proficient<br/>
 🇸🇳 **Wolof**: fluent<br/>
-🇪🇸 **Diola**: proficient<br/>
+🇸🇳 **Diola**: proficient<br/>
 
 ---
 
