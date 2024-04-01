@@ -5,7 +5,7 @@
 ## 💼 Work Experience
 
 **HPC System Engineer** @ [Cyber Infrastructure nationale pour l’Enseignement superieur la Recherche et l’Innovation (CINERI)](https://cineri.sn) 🇸🇳 _(January 2023 - Present)_
-- Directeur du Calcul Intensif  _(Mars 2024 - Present)_
+- Director of Intensive Computing  _(Mars 2024 - Present)_
 
 - HPC system Engineer  _(January 2023 - Present)_
 	- HPC maintenance
