@@ -11,7 +11,7 @@
 - HPC system Engineer  _(January 2023 - Present)_
 	- HPC maintenance
 	- Start-up of Senegal's HPC
-	- HPC Operation
+	- HPC Operations
 
 **Network and Systems Engineer** @ [Centre de Calcul Ousmane SECK (CCOS)](https://ugb.sn/ccos/) 🇸🇳 _(June 2018 - January 2023)_
 
