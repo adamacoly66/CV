@@ -2,10 +2,11 @@
 
 🧑🏾‍💻🌎 _Directeur du Calcul Intensif a la CINERI, Network and Systems Engineer, PhD Student on Computer Science at Gaston Berger University, Huawei HCIA Routing and Switching certified (HCNA)_
 
+## 💼 Work Experience
 
 **System Engineer** @ [IPCOM-TECHNOLOGY](https://www.linkedin.com/company/ipcom-technology/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BlxylJ66cTjSyKulR8vMROA%3D%3D) 🇸🇳 _(September 2016 - August 2016)_ (<u>apprenticeship</u>)
 Project: 
-* GIS in Senegalese agriculture
+**GIS in Senegalese agriculture**
 - Using Quantum GIS to map an arable are
 - Configure terminals for mapping
 
