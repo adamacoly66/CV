@@ -4,7 +4,6 @@
 
 ## 💼 Work Experience
 
-
 **HPC System Engineer** @ [Cyber Infrastructure nationale pour l’Enseignement superieur la Recherche et l’Innovation (CINERI)](https://cineri.sn) 🇸🇳 _(January 2023 - Present)_
 - Directeur du Calcul Intensif  _(Mars 2024 - Present)_
 
@@ -37,6 +36,29 @@ Project:
 **GIS in Senegalese agriculture**
 - Using Quantum GIS to map an arable are
 - Configure terminals for mapping
+
+---
+
+## Licences & certification
+
+- ICANN Technical Engagement Training Course: DNS and DNSSEC
+	- ICANN
+	- Issued Nov 2022
+
+- Certificate of Completion - IPv6 Foundations
+	- AFRINIC-The Regional Internet Registry for Africa
+	- Issued May 2022
+	- Credential ID qerl2nx0se
+
+- Training Certificate Smart Senegal Network Interconnection Project Cloud TTT Training
+	- Huawei
+  	- Issued Apr 2021
+	- Credential ID 09006063891502376513496006
+
+- Huawei Certified HCIA-Routing & Switching (HCNA)
+	- Huawei
+  	- Issued Mar 2019 · Expired Mar 2022
+	- Credential ID 010100101723807626211409
 
 ---
 
