@@ -11,6 +11,7 @@
 - Setting up a DNS server with DNSSEC
 - Responsible for server network security
 - Implementation of electronic certificates on production servers <br/>
+
 Project:
 **Smart Edu Project Manager (Huawei/ADIE)**
 - Redesign of the Addressing Plan
@@ -22,6 +23,7 @@ Project:
 - Setting up a recording and video conference room
 
 **System Engineer** @ [IPCOM-TECHNOLOGY](https://www.linkedin.com/company/ipcom-technology/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BlxylJ66cTjSyKulR8vMROA%3D%3D) 🇸🇳 _(September 2016 - August 2016)_ (<u>apprenticeship</u>)<br/>
+
 Project: 
 **GIS in Senegalese agriculture**
 - Using Quantum GIS to map an arable are
