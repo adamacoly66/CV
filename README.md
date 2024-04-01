@@ -9,9 +9,9 @@
 - Directeur du Calcul Intensif  _(Mars 2024 - Present)_
 
 - HPC system Engineer  _(January 2023 - Present)_
-	- Supercomputer maintenance
-	- Start-up of Senegal's supercomputer
-	- Supercomputer Operation
+	- HPC maintenance
+	- Start-up of Senegal's HPC
+	- HPC Operation
 
 **Network and Systems Engineer** @ [Centre de Calcul Ousmane SECK (CCOS)](https://ugb.sn/ccos/) 🇸🇳 _(June 2018 - January 2023)_
 
