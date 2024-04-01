@@ -4,13 +4,13 @@
 
 ## 💼 Work Experience
 
-**Network and Systems Engineer** @ [Centre de Calcul Ousmane SECK (CCOS)](https://ugb.sn/ccos/) 🇸🇳 _(June 2018 - January 2023)_ <br/>
+**Network and Systems Engineer** @ [Centre de Calcul Ousmane SECK (CCOS)](https://ugb.sn/ccos/) 🇸🇳 _(June 2018 - January 2023)_
 
 - Installation and configuration of production servers
 - Maintenance of services implemented in the infrastructure
 - Setting up a DNS server with DNSSEC
 - Responsible for server network security
-- Implementation of electronic certificates on production servers
+- Implementation of electronic certificates on production servers <br/>
 Project: 
 **Smart Edu Project Manager (Huawei/ADIE)**
 - Redesign of the Addressing Plan
