@@ -67,15 +67,15 @@ Project:
 🇫🇷 **French**: fluent<br/>
 🇬🇧 **English**: proficient<br/>
 🇸🇳 **Wolof**: fluent<br/>
-🇸🇳 **Diola**: proficient<br/>
+🇸🇳 **Diola**: fluent<br/>
 
 ---
 
 
 ## ❤️ Passions
 
-👟 **Sports**: football ⚽️, basketball 🏀, tennis 🎾, swimming 🏊🏾‍♂️, cycling 🚵🏾‍♂️<br/>
-🎞️ **Cinema**: movies and TV shows in original versions, old movies<br/>
+👟 **Sports**: football ⚽️, basketball 🏀, handball 🤾🏾‍♂️, swimming 🏊🏾‍♂️, judo 🥋<br/>
+🎞️ **Cinema**: movies and TV shows, old movies<br/>
 ✈️ **Traveling**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Nigeria 🇳🇬<br/>
 📚 **Reading**: researsh articles<br/>
 🎮 **Video games**: sports, adventure
