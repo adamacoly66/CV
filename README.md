@@ -52,13 +52,13 @@ Project:
 
 - Training Certificate Smart Senegal Network Interconnection Project Cloud TTT Training
 	- Huawei
-  	- Issued Apr 2021
-	- Credential ID 09006063891502376513496006
+ 	- Issued Apr 2021
+  	- Credential ID 09006063891502376513496006
 
 - Huawei Certified HCIA-Routing & Switching (HCNA)
 	- Huawei
-  	- Issued Mar 2019 · Expired Mar 2022
-	- Credential ID 010100101723807626211409
+ 	- Issued Mar 2019 · Expired Mar 2022
+  	- Credential ID 010100101723807626211409
 
 ---
 
